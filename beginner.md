@@ -1,4 +1,4 @@
-# H1 VIM SHORTCUTS
+#  VIM SHORTCUTS
 sudo apt-get install vim  # Install VIM On Ubuntu
 
  vim filename                    #### create a new file  if Doesn't exists and Opens it in command mode or Read-Only Mode.
